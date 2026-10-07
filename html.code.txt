@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My First GitHub Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f4f8;
+      color: #243447;
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    main {
+      max-width: 600px;
+      margin: auto;
+      padding: 36px;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 6px 20px #00000014;
+    }
+
+    h1 {
+      color: #0969da;
+    }
+
+    a {
+      color: #0969da;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Hello, GitHub!</h1>
+    <p>This is my first webpage hosted on GitHub.</p>
+    <p>I'm learning how to build things with HTML.</p>
+    <a href="https://github.com/">Visit GitHub</a>
+  </main>
+</body>
+</html>
